@@ -26,6 +26,7 @@
     "serve-favicon": "~2.5.0",
     "session": "^0.1.0",
     "snyk": "^1.680.0"
+
   },
   "devDependencies": {
     "dotenv": "^8.0.0",
