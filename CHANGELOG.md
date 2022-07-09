@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.3 (09/07/2022)
+
+#### closed
+
+- [**closed**] feat: Add gren configuration [#209](https://github.com/ritorrehuelamo/ironhack-third-project/pull/209)
+
+---
+
 ## v1.0.2 (08/07/2022)
 
 #### closed
