@@ -45,7 +45,7 @@ app.use(cookieParser())
 // app.use(express.static(path.join(__dirname, 'public')))
 
 app.use(session({
-  secret: 'LocalMarket',
+  secret: process.env.SESSION_SECRET,
   resave: true,
   saveUninitialized: true,
   cookie: {
