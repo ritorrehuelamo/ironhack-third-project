@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.4 (22/07/2022)
+
+#### feat
+
+- [**feat**] feat: Change new client code from react-js to react-typescript [#211](https://github.com/ritorrehuelamo/ironhack-third-project/pull/211)
+
+---
+
 ## v1.0.3 (09/07/2022)
 
 #### closed
